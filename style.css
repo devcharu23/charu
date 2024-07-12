@@ -250,23 +250,28 @@
 /*services section end*/
 /*gallery section end*/
 .gallery{
+/*gallery section start*/
     margin-top: 50px;
     margin-bottom: 30px;
 }
 .gallery .main-text{
+.Gallery .main-text{
     margin-top: 50px;
     text-align: center;
 }
 .gallery .card{
+.Gallery .card{
     border-radius: 10px;
     box-shadow: rgba(0,0,0,0.1) 0px 4px 12px;
     cursor: pointer;
 }
 .gallery .card img{
+.Gallery .card img{
     border-radius: 10px;
     transition: 0.5s;
 }
 .gallery .card img:hover{
+.Gallery .card img:hover{
     transform: scale(1.1);
 }
 /*gallery section end*/
